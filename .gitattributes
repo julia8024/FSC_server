@@ -1,0 +1,1 @@
+fai_project/** filter=lfs diff=lfs merge=lfs -text
