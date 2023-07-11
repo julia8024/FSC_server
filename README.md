@@ -3,6 +3,8 @@
 ### 피부질환 진단 AI를 통한 간편한 피부 관리 서비스 **“FSC(Future Skin Care)”**
 
 👩🏻‍💻 Team : FAI &nbsp; 🗓️ 2023.02.
+<br>
+💻 2023 Prometheus StartUp Hackathon
 
   
 <br>
