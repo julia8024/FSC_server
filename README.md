@@ -1,6 +1,6 @@
 # [FAI Team] Future Skin Care(FSC) Project
 
-- 피부질환 진단 AI를 통한 간편한 피부 관리 서비스 **“FSC(Future Skin Care)”**
+### 피부질환 진단 AI를 통한 간편한 피부 관리 서비스 **“FSC(Future Skin Care)”**
 - Django server
 - 2023.02.
 
